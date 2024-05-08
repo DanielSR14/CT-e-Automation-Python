@@ -7,15 +7,15 @@ Posteriormente, esses dados são utilizados para preencher as informações em u
 
 ## Características Principais
 
-- **Extração de Dados:**
+- ## Extração de Dados
 - O código utiliza o Tesseract OCR (Optical Character Recognition) para extrair informações cruciais, como data, valor e número do recibo,
-- a partir das imagens escaneadas.
-- **Preenchimento Automatizado:**
+  a partir das imagens escaneadas.
+- ## Preenchimento Automatizado
 - Os dados extraídos são organizados e preenchidos em uma planilha Excel.
-- Essa planilha serve como fonte para o preenchimento automático no sistema de CT-e online.
-- **Privacidade e Segurança:**
+  Essa planilha serve como fonte para o preenchimento automático no sistema de CT-e online.
+- ## Privacidade e Segurança
 - Por questões de privacidade e segurança, algumas etapas e dados específicos foram omitidos do código disponível no GitHub.
-- **Dados Fictícios:**
+- ## Dados Fictícios
 - As imagens de recibo presentes neste repositório são geradas pelo módulo Faker do Python e servem apenas como exemplos para demonstração e testes.
 
 ## Finalidade do Projeto
@@ -32,10 +32,10 @@ Subsequently, this data is used to fill in information in an online system.
 ## Key Features
 - ## Data Extraction
 - The code utilizes Tesseract OCR (Optical Character Recognition) to extract crucial information such as date,
-- value, and receipt number from scanned images.
+  value, and receipt number from scanned images.
 - ## Automated Filling
 - The extracted data is organized and filled into an Excel spreadsheet.
-- This spreadsheet serves as a source for automatic filling in the online CT-e system.
+  This spreadsheet serves as a source for automatic filling in the online CT-e system.
 - ## Privacy and Security
 - Due to privacy and security concerns, some steps and specific data have been omitted from the code available on GitHub.
 - ## Dummy Data
